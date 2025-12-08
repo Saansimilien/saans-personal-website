@@ -1,0 +1,41 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 40px;
+  line-height: 1.6;
+}
+
+nav {
+  background-color: #4682b4;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: #2c5f7c;
+}
+
+h3 {
+  color: #4682b4;
+}
+
+img {
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+a {
+  color: #4682b4;
+}
